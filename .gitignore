@@ -196,3 +196,7 @@ cython_debug/
 
 # AGENTS.md
 AGENTS.md
+
+# pycache
+**/__pycache__
+**/__pypackages__
