@@ -200,3 +200,7 @@ AGENTS.md
 # pycache
 **/__pycache__
 **/__pypackages__
+
+# doc
+*.md
+!docs/*.md
